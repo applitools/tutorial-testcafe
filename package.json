@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@applitools/eyes-testcafe": "^1.14.3",
+    "@applitools/eyes-testcafe": "^1.15.0",
     "testcafe": "^1.15.3"
   }
 }
