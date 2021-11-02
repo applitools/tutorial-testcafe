@@ -10,6 +10,6 @@
   "license": "ISC",
   "devDependencies": {
     "@applitools/eyes-testcafe": "^1.15.0",
-    "testcafe": "^1.16.1"
+    "testcafe": "^1.17.0"
   }
 }
